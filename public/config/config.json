@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0x7E0d278Dc280f1A7891f74716007b36a1A0C5e39",
+  "TOKEN": "0x600e8029bd9863c2118782F2868A8bF8e8F011d2",
+  "SCAN_LINK": "https://testnet.bscscan.com/address/0x7E0d278Dc280f1A7891f74716007b36a1A0C5e39",
+  "NETWORK": {
+    "NAME": "BSC Testnet",
+    "SYMBOL": "BNB",
+    "ID": 97
+  },
+  "NFT_NAME": "IF2 Defenders",
+  "SYMBOL": "IF2test",
+  "GAS_LIMIT": 295000,
+  "MARKETPLACE": "Oblivion",
+  "MARKETPLACE_LINK": "Oblivion.art",
+  "SHOW_BACKGROUND": true
+}
